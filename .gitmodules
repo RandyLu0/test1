@@ -1,3 +1,6 @@
 [submodule "luRan"]
 	path = luRan
 	url = https://github.com/RandyLu0/Work04
+[submodule "test3"]
+	path = test3
+	url = https://github.com/RandyLu0/test2
